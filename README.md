@@ -16,4 +16,4 @@ This Specialization covers the concepts of the most important information techno
 - Finished Week 2 | Smartphone Specifications in Course 1 | Smartphone Emerging Technologies
 - Finished Week 3 | iOS in Course 1 | Smartphone Emerging Technologies
 - Finished Week 4 | Android in Course 1 | Smartphone Emerging Technologies
-
+- Finished Week 5 | Android vs. iOS in Course 1 | Smartphone Emerging Technologies
