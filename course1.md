@@ -45,7 +45,7 @@ These lectures focus on the major features and functionalities of the Android OS
 - Android Quiz
 
 ####Week 5
-#####Android
+#####Android vs. iOS
 This lecture focuses on the major features and functionalities of the Android and iOS OSs (Operating Systems) based on the Programming Language, Source model, Internet Browsing, Voice Commands, Video Chat, App Store, and Mobile Payments. Then some of the essential characteristics of Android and iOS are compared.
 
 - Android vs. iOS
