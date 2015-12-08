@@ -13,3 +13,4 @@ This Specialization covers the concepts of the most important information techno
 ###08/12/2015
 - Enrolled in the program
 - Finished Week 1 | Specialization Introduction in Course 1 | Smartphone Emerging Technologies
+- Finished Week 2 | Smartphone Specifications in Course 1 | Smartphone Emerging Technologies
