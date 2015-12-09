@@ -17,3 +17,6 @@ This Specialization covers the concepts of the most important information techno
 - Finished Week 3 | iOS in Course 1 | Smartphone Emerging Technologies
 - Finished Week 4 | Android in Course 1 | Smartphone Emerging Technologies
 - Finished Week 5 | Android vs. iOS in Course 1 | Smartphone Emerging Technologies
+
+###09/12/2015
+- Finished Week 1 | Cloud Computing in Course 2 | Big Data, Cloud Computing, & CDN Emerging Technologies
