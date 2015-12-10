@@ -20,3 +20,6 @@ This Specialization covers the concepts of the most important information techno
 
 ###09/12/2015
 - Finished Week 1 | Cloud Computing in Course 2 | Big Data, Cloud Computing, & CDN Emerging Technologies
+
+###10/12/2015
+- Finished Week 2 | Big Data in Course 2 | Big Data, Cloud Computing, & CDN Emerging Technologies
