@@ -14,3 +14,15 @@ These lectures focus on the major features and functionalities of Cloud Computin
 - Cloud Service Models
 - Cloud Services
 - Cloud Computing Quiz
+
+####Week 2
+#####Big Data
+These lectures focus on the features and architecture of Big Data. The lectures start with providing Big Data examples, which include the past event of the H1N1 flu virus spread prevention, smartphone marketing, and industrial examples of Big Data in use by Wal-Mart, Amazon.com, and Citibank. To explain the major technical challenges of Big Data, the influence of data Volume, Variety, Velocity, and Veracity are discussed. Then, to provide a realistic overview of a reliable shared storage Big Data analysis system, the architecture of Hadoop is described. The description includes details on MapReduce and HDFS (Hadoop Distributed FileSystem), which are the two major components of Hadoop.
+
+- Big Data Examples
+- Big Data's 4 Vs
+- HADOOP
+- MapReduce vs. RDBMS
+- MapReduce
+- HDFS
+- Big Data Quiz
