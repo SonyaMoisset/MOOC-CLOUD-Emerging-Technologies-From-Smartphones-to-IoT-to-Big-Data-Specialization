@@ -13,3 +13,12 @@ The lectures first cover Internet Operations based on an example of using IPv4, 
 - Internet Operations
 - TCP / IP 5 Layer Network Model
 - Quiz: Internet Operations Quiz
+
+#### Week 2
+##### TCP & UDP
+You have been using TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) your entire life, and now it is time to know what it is and how it works. First, the lectures cover TCP, starting with the TCP Header, and covers the fields Source Port, Destination Port, Checksum, Data Offset, Push function, and Urgent Flag & Urgent Pointer. The TCP lectures also include details on TCP Network Operations, TCP Connection Establishment, Window Flow Control, and Congestion Control. Next, the details on UDP (User Datagram Protocol) are presented, which include UDP Header, Source Port, Destination Port, Length, and Checksum fields.
+
+- TCP Protocol Part 1
+- TCP Protocol Part 2
+- UDP Protocol
+- Quiz: TCP & UDP Quiz
