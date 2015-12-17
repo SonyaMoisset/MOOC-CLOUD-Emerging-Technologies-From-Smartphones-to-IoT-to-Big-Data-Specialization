@@ -26,3 +26,6 @@ This Specialization covers the concepts of the most important information techno
 
 ### 13/12/2015
 - Finished Week 3 | Content Delivery Network in Course 2 | Big Data, Cloud Computing, & CDN Emerging Technologies
+
+### 17/12/2015
+- Finished Week 1 | Internet Operations in Course 3 | Internet Emerging Technologies
