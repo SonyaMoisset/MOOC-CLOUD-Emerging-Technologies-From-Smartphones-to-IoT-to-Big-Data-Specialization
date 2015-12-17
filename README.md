@@ -29,3 +29,4 @@ This Specialization covers the concepts of the most important information techno
 
 ### 17/12/2015
 - Finished Week 1 | Internet Operations in Course 3 | Internet Emerging Technologies
+- Finished Week 2 | TCP & UDP in Course 3 | Internet Emerging Technologies
