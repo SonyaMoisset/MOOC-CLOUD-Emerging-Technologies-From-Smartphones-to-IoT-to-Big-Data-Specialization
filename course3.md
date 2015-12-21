@@ -22,3 +22,15 @@ You have been using TCP (Transmission Control Protocol) and UDP (User Datagram P
 - TCP Protocol Part 2
 - UDP Protocol
 - Quiz: TCP & UDP Quiz
+
+#### Week 3
+##### IP
+The lectures cover the essential functions of IPv4 and IPv6, which are used in the Internet today. The lectures first focus on IPv4 inter-networking functions and then provide details on the IPv4 Header, which include the fields of DS (Differentiated Services), ECN (Explicit Congestion Notification), Total Length, Identification, Packet Fragmentation, TTL (Time to Live), and Source & Destination IPv4 Addresses. Next, details on the IPv6 protocol are provided, which include the IPv6 Packet Header fields of DS, ECN, Flow Label, Hop Limit, IPv6 Address Types & Address Format, and IPv6 Jumbogram Extension Header. Then IPv6 PMTUD (Path MTU Discovery) techniques are presented.
+
+- IPv4 Protocol Part 1
+- IPv4 Protocol Part 2
+- IPv6 Protocol Part 1
+- IPv6 Protocol Part 2
+- IPv6 PMTUD
+- Quiz: IP Quiz!
+- You're Almost There!
