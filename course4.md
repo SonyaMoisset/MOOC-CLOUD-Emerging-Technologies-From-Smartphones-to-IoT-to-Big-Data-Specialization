@@ -19,3 +19,13 @@ The lectures cover the services and essential functions of IoT (Internet of Thin
 - IoT Technologies
 - IoT Networks
 - Quiz: IoT Quiz
+
+#### Week 2
+##### AR (Augmented Reality)
+The lectures cover the services and essential functions of AR (Augmented Reality). First, the characteristics and a little on the history of VR (Virtual Reality) and AR (Augmented Reality) are presented, and some definitions of AR are presented. Next, AR Classifications based on Sensor, Vision, and Hybrid Tracking are described. Then the lecture focuses on AR Technology and describes the AR Process, which is composed of the stages of Image Acquisition, Feature Extraction, Feature Matching, Geometric Verification, and Associated Information Retrieval. Then further details on the AR Feature Extraction Process and Feature Extraction Techniques (e.g., SIFT and SURF) are explained.
+
+- AR Introduction
+- AR Technology
+- AR Applications & Business Models
+- Quiz: AR Quiz
+- You're Almost There!
