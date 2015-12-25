@@ -36,3 +36,4 @@ This Specialization covers the concepts of the most important information techno
 
 ### 25/12/2015
 - Finished Week 1 | IoT (Internet of Things) in Course 4 | Internet of Things & Augmented Reality Emerging Technologies
+- Finished Week 2 | AR (Augmented Reality) in Course 4 | Internet of Things & Augmented Reality Emerging Technologies
