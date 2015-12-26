@@ -42,3 +42,4 @@ This Specialization covers the concepts of the most important information techno
 - Finished Week 1 | Bluetooth in Course 5 | Wireless Communication Emerging Technologies
 - Finished Week 2 | Wi-Fi in Course 5 | Wireless Communication Emerging Technologies
 - Finished Week 3 | Mobile Communications in Course 5 | Wireless Communication Emerging Technologies
+- Finished Week 4 | LTE & LTE-A in Course 5 | Wireless Communication Emerging Technologies
