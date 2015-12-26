@@ -22,3 +22,11 @@ Wi-Fi is the most popular WLAN (Wireless Local Area Network) technology and is u
 - Wi-Fi Part 1
 - Wi-Fi Part 2
 - Quiz: Wi-Fi Quiz
+
+#### Week 3
+##### Mobile Communications
+In these lectures, the evolution of mobile communication technologies is explained starting from the 1st generation (1G) all the way to the most advanced 4th generation (4G) systems. But first, some of the essential technical fundamentals on mobile communication Downlink & Uplink and Handover are described. The lectures on Mobile Communications Evolution start with the 1st Generation (1G) AMPS, and then continue on to 2nd Generation (2G) systems GSM and IS-95 (cdmaOne), 3rd Generation (3G) systems UMTS (WCDMA) and CDMA2000, and 4th Generation (4G) LTE-Advanced systems. Details on SIM (Subscriber Identity Module) and other inter-generation evolution technologies such as HSPA (High-Speed Packet Access) and LTE (Long-Term Evolution) are also explained.
+
+- Mobile Communications Handover
+- Mobile Communications Evolution
+- Quiz: Mobile communications Quiz
