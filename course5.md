@@ -30,3 +30,13 @@ In these lectures, the evolution of mobile communication technologies is explain
 - Mobile Communications Handover
 - Mobile Communications Evolution
 - Quiz: Mobile communications Quiz
+
+#### Week 4
+##### LTE & LTE-A
+Following the lectures on evolution of mobile communication technologies, the lectures in this module focus of the new technologies applied in the state-of-the-art LTE (Long Term Evolution) and LTE-A (LTE-Advanced) 4G mobile communication systems. First, the LTE and LTE-A Requirements and 3GPP Specifications are presented. Then, the LTE Architecture based on EPC Elements is presented followed by LTE Components such as OFDM, OFDMA, MIMO & Precoding, Handover & Packet Forwarding, and MBMS are explained. Next, the lectures on LTE-A covers ICIC and FFR, DSA, CoMP, CA, HetNet, Small Cells, and SON, which are the main technologies that enable LTE-A to perform at such high levels.
+
+- LTE Introduction
+- LTE Components
+- LTE-Advanced Part 1
+- LTE-Advanced Part 2
+- Quiz: LTE & LTE-A Quiz
