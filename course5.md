@@ -14,3 +14,11 @@ Bluetooth is the most popular WPAN (Wireless Personal Area Network) technology a
 - Course Syllabus
 - Bluetooth
 - Quiz: Bluetooth Quiz
+
+#### Week 2
+##### Wi-Fi
+Wi-Fi is the most popular WLAN (Wireless Local Area Network) technology and is used in every smartphone that exists. The lectures explain the Wi-Fi Infrastructure Mode based on BSS (Basic Service Set) and ESS (Extended Service Set), and the Wi-Fi Ad-Hoc Mode based on IBSS (Independent Basic Service Set). Then the details of the IEEE 802.11 Network and PHY Standards for 802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, and 802.11ad specifications based on frequency, bandwidth, and data rate are presented.
+
+- Wi-Fi Part 1
+- Wi-Fi Part 2
+- Quiz: Wi-Fi Quiz
