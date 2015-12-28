@@ -1,4 +1,5 @@
 # Emerging Technologies: From Smartphones to IoT to Big Data Specialization
+# COURSE AUDIT COMPLETED
 ### Created by Yonsei University
 
 This Specialization covers the concepts of the most important information technologies that you have been using and will be using throughout your entire life! Topics covered include Smartphones, OS, Cloud Computing, Big Data, CDN, Wi-Fi, Bluetooth, Mobile Communication, LTE, LTE-Advanced, IoT, AR, IPv4, IPv6, TCP, UDP, and Internet operations. The Specialization concludes with a Capstone project that allows you to apply the skills you've learned throughout the courses.
